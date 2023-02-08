@@ -39,10 +39,12 @@
 
 ---
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielGuillen&show_icons=true&theme=shades-of-purple)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArielGuillen&theme=shades-of-purple&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielGuillen&theme=shades-of-purple&hide_border=true&border_radius=7)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
