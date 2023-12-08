@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://mvpstorage.nyc3.digitaloceanspaces.com/K-TDRA/img/63da8f02b0b3e876e4f73e10.svg" width="50% heigth=100" />
   <div id="badges">
-    <a href="[www.linkedin.com/in/Ariel-Guillen-Blanco](https://www.linkedin.com/in/ariel-guillen-blanco/)">
+    <a href=https://www.linkedin.com/in/ariel-guillen-blanco">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=ArielGuillen&style=flat-square&color=blue" alt=""/>
